@@ -1,0 +1,19 @@
+@CHARSET  "UTF-8" ;
+/ *
+ * style.css
+ * /
+corpo {
+  parte superior do preenchimento : 50 px ;
+  margem : 12 px automático;
+  largura : 1280 px ;
+}
+
+td {
+  preenchimento : 12 px ;
+  borda inferior : 1 px em preto sólido;
+  alinhamento de texto : centro;
+}
+
+th {
+  tamanho da fonte : 18 px ;
+} 
